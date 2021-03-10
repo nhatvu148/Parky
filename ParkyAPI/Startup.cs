@@ -55,7 +55,7 @@ namespace ParkyAPI
                         License = new Microsoft.OpenApi.Models.OpenApiLicense()
                         {
                             Name = "MIT License",
-                            Url = new Uri("https://github.com/nhatvu148/DialogBase/blob/master/LICENSE")
+                            Url = new Uri("https://github.com/nhatvu148/Parky/blob/master/LICENSE")
                         }
                     });
                 var xmlCommentFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
